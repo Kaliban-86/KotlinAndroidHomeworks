@@ -1,0 +1,2 @@
+rootProject.name = "AndroidKotlinHomeworksApp"
+include ':app'
