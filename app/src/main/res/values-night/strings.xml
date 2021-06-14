@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="button">Записать столицу</string>
+    <string name="button_all_capitals_print">Все столицы</string>
+</resources>

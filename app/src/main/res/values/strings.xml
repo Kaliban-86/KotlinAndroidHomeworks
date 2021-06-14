@@ -1,3 +1,23 @@
 <resources>
     <string name="app_name">AndroidKotlinHomeworksApp</string>
+    <string name="button_find_capital">Определить столицу</string>
+    <string name="button">Записать в блокнот</string>
+    <string name="button_all_capitals_print">Все столицы</string>
+    <string-array name="countries">
+        <item>Россия</item>
+        <item>США</item>
+        <item>Великобритания</item>
+        <item>Испания</item>
+        <item>Турция</item>
+    </string-array>
+
+    <string-array name="capitals">
+        <item>Москва</item>
+        <item>Вашингтон</item>
+        <item>Лондон</item>
+        <item>Мадрид</item>
+        <item>Стамбул</item>
+
+
+    </string-array>
 </resources>
