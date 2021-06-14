@@ -26,9 +26,7 @@ class MainActivity : AppCompatActivity() {
         buttonAllCapitals = findViewById(R.id.buttonAllCapitals)
         noteView = findViewById(R.id.textViewNote)
 
-
     }
-
 
     fun showCapital(view: View?) {
         val position = spinnerCountries!!.selectedItemPosition
